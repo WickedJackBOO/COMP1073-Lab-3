@@ -58,6 +58,11 @@ function showTopFlavors(jsonBody) {
         let article = document.createElement("article"); // <article></article>
         let h2 = document.createElement("h2"); // <h2></h2>
         let p1 = document.createElement("p"); // <p></p>
+        if (topFlavors[i].calories > 270){
+            let p1a = document.createElement("p");
+            p1a.textContent = "Warning high calories " + (topFlavors[i].calories - 300) + " over!!!";
+            article.appendChild(p1a);
+        }
         let p2 = document.createElement("p"); // <p></p>
         let image = document.createElement("img"); // <img>
         let list = document.createElement("ul"); // <ul></ul>

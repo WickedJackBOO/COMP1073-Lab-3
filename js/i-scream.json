@@ -13,7 +13,7 @@
         "dark chocolate chips",
         "vanilla extract"
       ],
-      "image" : "https://github.com/WickedJackBOO/COMP1073-Lab-3/blob/main/images/chocolate-mint.svg"
+      "image" : "https://wickedjackboo.github.io/COMP1073-Lab-3/images/chocolate-mint.svg"
     },
     {
       "name" : "Perfect Peach Mango",
@@ -24,7 +24,7 @@
         "mango chunks",
         "clover honey"
       ],
-      "image" : "https://github.com/WickedJackBOO/COMP1073-Lab-3/blob/main/images/peach-mango.svg"
+      "image" : "https://wickedjackboo.github.io/COMP1073-Lab-3/images/peach-mango.svg"
     },
     {
       "name": "cookie dough",
@@ -35,7 +35,7 @@
         "vanilla",
         "chocolate chips"
     ],
-    "Image": "https://github.com/WickedJackBOO/COMP1073-Lab-3/blob/main/images/ice-cream-xtra2.svg"
+    "Image": "https://wickedjackboo.github.io/COMP1073-Lab-3/images/ice-cream-xtra2.svg"
     },
     {
       "name": "tiger stripe",
@@ -45,7 +45,7 @@
         "caramel",
         "butter milk"
       ],
-      "image": "https://github.com/WickedJackBOO/COMP1073-Lab-3/blob/main/images/ice-cream-xtra1.svg"
+      "image": "https://wickedjackboo.github.io/COMP1073-Lab-3/images/ice-cream-xtra1.svg"
     }
   ]
 }

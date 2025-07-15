@@ -13,7 +13,7 @@
         "dark chocolate chips",
         "vanilla extract"
       ],
-      "image" : "chocolate-mint.svg"
+      "image" : "https://github.com/WickedJackBOO/COMP1073-Lab-3/blob/main/images/chocolate-mint.svg"
     },
     {
       "name" : "Perfect Peach Mango",
@@ -24,7 +24,28 @@
         "mango chunks",
         "clover honey"
       ],
-      "image" : "peach-mango.svg"
+      "image" : "https://github.com/WickedJackBOO/COMP1073-Lab-3/blob/main/images/peach-mango.svg"
+    },
+    {
+      "name": "cookie dough",
+      "calories": 300,
+      "type": "ice cream",
+      "ingredients" : [
+        "cookie dough",
+        "vanilla",
+        "chocolate chips"
+    ],
+    "Image": "https://github.com/WickedJackBOO/COMP1073-Lab-3/blob/main/images/ice-cream-xtra2.svg"
+    },
+    {
+      "name": "tiger stripe",
+      "calories" : 450,
+      "ingredients": [
+        "licorice",
+        "caramel",
+        "butter milk"
+      ],
+      "image": "https://github.com/WickedJackBOO/COMP1073-Lab-3/blob/main/images/ice-cream-xtra1.svg"
     }
   ]
 }
